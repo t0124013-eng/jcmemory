@@ -1,6 +1,6 @@
 /* メモリーポット 中学 — オフライン用。高校版（同じ github.io）と混ざらないよう、キャッシュ名を分けています。
    アプリを更新したら VERSION を1つ上げる。 */
-const VERSION = 'memory-pot-jhs-v1';
+const VERSION = 'memory-pot-jhs-v2';
 const CORE = ['./', './index.html', './manifest.webmanifest', './vendor/xlsx.full.min.js',
   './icons/icon-192.png', './icons/apple-touch-icon.png', './icons/favicon-32.png'];
 
